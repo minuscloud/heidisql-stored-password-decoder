@@ -1,2 +1,1 @@
-# heidisql stored password decoder
- 
+decode any stored heidisql password
