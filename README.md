@@ -1,1 +1,1 @@
-decode stored user session passwords
+decode stored heidisql user session passwords
