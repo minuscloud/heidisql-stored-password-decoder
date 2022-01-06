@@ -1,0 +1,2 @@
+# heidisql stored password decoder
+ 
